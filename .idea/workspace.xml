@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcde6aa6-22d4-4658-aa5e-01278b6cc629" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/zerodj/dj01/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zerodj/dj01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/dj01/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zerodj/zerodj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/zerodj/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zerodj/zerodj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/zerodj/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -24,13 +35,16 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2o70EYAQ5cAZ8tc6MAqwQ52CpjP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev"
@@ -92,11 +106,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730206689295</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inicializacion of the djanjo project lesson">
+      <option name="closed" value="true" />
+      <created>1730209458501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730209458501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="inicializacion of a new app dj01 lesson DJ01">
+      <option name="closed" value="true" />
+      <created>1730209702873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730209702873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="inicializacion of the djanjo project lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicializacion of the djanjo project lesson" />
+    <MESSAGE value="inicializacion of a new app dj01 lesson DJ01" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicializacion of a new app dj01 lesson DJ01" />
   </component>
 </project>
