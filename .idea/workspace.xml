@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcde6aa6-22d4-4658-aa5e-01278b6cc629" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/zerodj/dj01/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zerodj/dj01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/dj01/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zerodj/zerodj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/zerodj/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zerodj/zerodj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/zerodj/zerodj/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="fcde6aa6-22d4-4658-aa5e-01278b6cc629" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,13 +116,22 @@
       <option name="project" value="LOCAL" />
       <updated>1730209702873</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="two pages, test and data added to the app dj01 lesson DJ01">
+      <option name="closed" value="true" />
+      <created>1730214154047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730214154047</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="inicializacion of the djanjo project lesson" />
     <MESSAGE value="inicializacion of a new app dj01 lesson DJ01" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicializacion of a new app dj01 lesson DJ01" />
+    <MESSAGE value="two pages, test and data added to the app dj01 lesson DJ01" />
+    <option name="LAST_COMMIT_MESSAGE" value="two pages, test and data added to the app dj01 lesson DJ01" />
   </component>
 </project>
